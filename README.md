@@ -40,7 +40,7 @@ The skill provides everything needed to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ttwars-bot-skills.git
+git clone https://github.com/adit7494/ttwars-bot-skills.git
 cd ttwars-bot-skills
 
 # Install Python dependencies
