@@ -30,3 +30,6 @@ logs/
 # Credentials
 cookies.json
 session.json
+
+# Raw reference dumps
+raw-reference/

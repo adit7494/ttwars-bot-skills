@@ -71,8 +71,6 @@ ttwars-bot-skills/
 │   ├── buildings.md                   # Building ID reference
 │   ├── graphql-queries.md             # GraphQL query examples
 │   └── page-structure.md              # HTML structure reference
-├── raw-reference/
-│   └── unl7.ttwars.com/              # Raw HTML dumps from live server
 ├── config/
 │   └── .env.example                   # Environment variable template
 └── .claude/

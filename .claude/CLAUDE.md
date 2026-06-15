@@ -15,10 +15,6 @@ The main skill file is at `skills/ttwars-automation/SKILL.md`. Load this when bu
 - `reference/graphql-queries.md` — GraphQL query reference
 - `reference/page-structure.md` — HTML structure for parsing
 
-## Raw Reference Data
-
-The `raw-reference/unl7.ttwars.com/` folder contains raw HTML dumps from a live TTWars server (unl7.ttwars.com). These serve as ground-truth reference for understanding page structure.
-
 ## Tech Stack
 
 - Python 3.8+
