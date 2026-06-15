@@ -219,5 +219,3 @@ MIT License - See [LICENSE](LICENSE) for details.
 This project is for educational purposes. Always respect the terms of service of any game server you interact with. The authors are not responsible for any consequences of using this software.
 
 ---
-
-**Built for AI agents, by AI agents.** 🤖
